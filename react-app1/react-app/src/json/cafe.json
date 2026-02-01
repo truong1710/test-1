@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Espresso",
+        "image":  "https://cdn.tgdd.vn/Files/2023/07/11/1537842/espresso-la-gi-nguyen-tac-pha-espresso-dung-chuan-202307120715077669.jpg",
+        "type": "đồ uống"
+    },
+    {
+        "id": 2,
+        "name": "Americano",
+        "image": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/2024_3_28_638472299342509511_avatar.jpg",
+        "type": "đồ uống"
+    },
+    {
+        "id": 3,
+        "name": "Cappuccino",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeRJ6Zj4psSROtwiAKyOhI2CWfZ1gGbS5U6w&s",
+        "type": "đồ uống"
+    },
+    {
+        "id": 4,
+        "name": "Latte",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Latte_at_Doppio_Ristretto_Chiang_Mai_01.jpg",
+        "type": "đồ uống"
+    },
+    {
+        "id": 5,
+        "name": "Mocha",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeO7gIlorGa2-QoOAVDbRISdEPAbE-2LZqeg&s",
+        "type": "đồ uống"
+    },
+    {
+        "id": 6,
+        "name": "Cafe Giảng",
+        "image": "https://digiticket.vn/blog/wp-content/uploads/2021/09/ca-phe-giang-ha-noi-1.jpg",
+        "type": "best seller"
+    },
+    {
+        "id": 7,
+        "name": "Cafe Muối",
+        "image": "https://static.vinwonders.com/production/2025/02/huong-vi-ca-phe-muoi-doc-dao.jpg",
+        "type": "best seller"
+    },
+    {
+        "id": 8,
+        "name": "Hướng Dương Ngọt",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtvQ39KDD4Ne6k858Q2jsRHE2zSd1pgusNww&s",
+        "type": "đồ ăn"
+    },
+    {
+        "id": 9,
+        "name": "Hướng Dương Thường",
+        "image": "https://thuyanmart.vn/wp-content/uploads/2023/04/Tac-dung-cua-hat-huong-duong-doi-voi-suc-khoe-va-cach-an-hat-huong-duong-0-1200x676-1200x676-1.jpg",
+        "type": "đồ ăn"
+    },
+    {
+        "id": 10,
+        "name":"Cheesecake",
+        "image": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/cheesecake_thumb_9c0ee56991.jpg",
+        "type": "đồ ăn"
+    }
+]

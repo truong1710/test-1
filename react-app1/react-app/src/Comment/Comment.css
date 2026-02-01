@@ -1,0 +1,52 @@
+#comment {
+  display: flex;
+  gap: 12px;
+  width: 100%;
+  margin: 12px 0;
+}
+
+
+#comment-avatar img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+
+#comment-body {
+  flex: 1;
+}
+
+#comment-body input {
+  width: 100%;
+  padding: 10px 14px;
+  border-radius: 20px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+  outline: none;
+}
+
+
+#comment-button {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 8px;
+}
+
+#comment-button button {
+  padding: 6px 14px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+}
+
+#comment-button .cancel {
+  background: #eee;
+}
+
+#comment-button .submit {
+  background: #1877f2;
+  color: white;
+}

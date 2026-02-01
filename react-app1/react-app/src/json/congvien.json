@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "name": "Nghĩa Đô Park",
+        "image": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/08/ho-nuoc-nhin-tu-tren-cao.jpg",
+        "address":"Nguyễn Văn Huyền, Cầu Giấy, Hà Nội, Việt Nam"
+    },
+    {
+        "id": 2,
+        "name": "Thống Nhất Park",
+        "image": "https://ik.imagekit.io/tvlk/blog/2023/10/GaXyhe6R-cong-vien-thong-nhat-3.jpg?tr=q-70,c-at_max,w-1000,h-600",
+        "address":  "Trần Nhân Tông & Lê Duẩn, Hai Bà Trưng, Hà Nội, Việt Nam"
+    },
+    {
+        "id": 3,
+        "name": "Lenin Park",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW0fWdXgmxVctQA4agREcT2jeL8oKAyzTk8Q&s",
+        "address":"28A Điện Biên Phủ, Ba Đình, Hà Nội, Việt Nam"
+    },
+    {
+        "id": 4,
+        "name": "Đồng Đa Cultural Park",
+        "image": "https://godongda.vn/data/uploads/2024/05/congchinh2.jpg",
+        "address":"Đặng Tiến Đông, Đống Đa, Hà Nội, Việt Nam"
+    },
+    {
+        "id": 5,
+        "name": "Thu Lệ Park",
+        "image": "https://statics.vinpearl.com/thu-le-park-02_1677589009.jpg",
+        "address": "Đường Buổi, Ba Đình, Hà Nội, Việt Nam"
+    },
+    {
+        "id": 6,
+        "name": "Yên Sở Park",
+        "image": "https://static.vinwonders.com/production/cong-vien-yen-so-1.jpeg",
+        "address": "Đường Vành Đai 3, Hoàng Mai, Hà Nội, Việt Nam"
+    },
+    {
+        "id": 7,
+        "name": "Botanical Gardens (Bách Thảo)",
+        "image": "https://longvietarch.wordpress.com/wp-content/uploads/2024/07/cong-vien-bach-thao-f.jpg?w=800",
+        "address": "1B Hoàng Hoa Thám, Ba Đình, Hà Nội, Việt Nam"
+    },
+    {
+        "id": 8,
+        "name": "Indira Gandhi Park",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tzilAOMy42_ZGiKoTDb2IJb7w0IAdzrzag&s",
+        "address": "16B Láng Hạ, Ba Đình, Hà Nội, Việt Nam"
+    },
+    {
+        "id": 9,
+        "name": "Công Viên Cầu Giấy",
+        "image": "https://media-cdn-v2.laodong.vn/storage/newsportal/2025/9/7/1570374/Cong-Vien-Cau-Giay.jpg",
+        "address": "Dịch Vọng, Cầu Giấy, Hà Nội, Việt Nam"
+    },
+    {
+        "id": 10,
+        "name": "Hoa Bình Park",
+        "image": "https://statics.vinpearl.com/cong-vien-hoa-binh-1_1688015190.jpg",
+        "address": "Phạm Văn Đồng, Bắc Từ Liêm, Hà Nội, Việt Nam"
+    }
+
+
+]

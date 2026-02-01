@@ -1,0 +1,14 @@
+.type_item{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;       
+    gap: 12px;              
+    padding: 0;
+    margin: 0;
+
+}
+.item button:hover{
+    background-color: rgba(206, 143, 60, 0.896);
+    color: white;
+    border-radius: 30px;
+}

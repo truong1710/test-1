@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "user": "Vũ Minh Trường",
+    "image": "https://i.pravatar.cc/40?img=1",
+    "content": "Địa điểm này thật tuyệt vời để đi cùng gia đình vào dịp lễ tết."
+  },
+  {
+    "id": 2,
+    "user": "Nguyễn Minh Anh",
+    "image": "https://i.pravatar.cc/40?img=2",
+    "content": "Không gian quán rất yên tĩnh, cà phê ngon, giá hợp lý."
+  },
+  {
+    "id": 3,
+    "user": "Trần Hoàng Long",
+    "image": "https://i.pravatar.cc/40?img=3",
+    "content": "Phù hợp để học bài và làm việc, nhân viên thân thiện."
+  }
+  
+]

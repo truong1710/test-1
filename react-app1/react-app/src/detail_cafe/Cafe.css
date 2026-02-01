@@ -1,0 +1,165 @@
+.container{
+    width: 80vw;
+    margin-left:10vw ;
+    display: flex;
+    flex-direction: column;
+}
+/* .cafe-detail{
+    width: 80vw;
+    margin-left: 10vw;
+} */
+.header-cafedetail{
+    display: flex;
+    flex-direction: column;
+}
+.title-cafedetail{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.header1-cafedetail{
+    display: flex;
+    height: 410px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    overflow: hidden;
+}
+.image-cafedetail{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+    width: 40vw;
+    height: 410px;
+
+  
+}
+.image-cafedetail img{
+    width: 18vw;
+    height: 200px;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+}
+.image-cafedetail img:hover{
+    transform: scale(1.2);
+}
+
+.content-cafedetail{
+    display: flex;
+    flex-direction: column;
+    width: 40dvw;
+    height: 430px;
+
+}
+
+.content-cafedetail h3{
+    color: blue;
+    margin-left: 40%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.content-cafedetail p{
+    font-size: 15px;
+    margin-bottom: 10px;
+
+}
+
+.tag{
+    color: blue;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+.button_share{
+    display: flex;
+    flex-direction: row;
+    margin: 5vw;
+    gap: 2vw;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+}
+
+.icon{
+    width: 25px;
+}
+
+.button_share button{
+    border-radius: 30px;
+    background-color: rgb(96, 96, 237);
+    color: white;
+    font-size: 15px;
+
+}
+
+.button_share button:hover{
+    background-color:  rgb(40, 40, 217);
+    transform: translateX(5px);
+}
+
+
+.menu-do-uong{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-left: 5vw;
+   
+}
+.menu-best-seller{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-left: 5vw;
+    
+}
+.menu-do-an{
+    display: flex;
+    flex-wrap: wrap;
+    gap:15px;
+    margin-left: 5vw;
+    
+}
+
+.location-cafe{
+    margin-bottom: 30px;
+
+}
+.location-cafe h4:hover{
+    transform: scale(1.2);
+
+}
+.location-map{
+    width: 70vw;
+    margin-bottom: 5px;
+
+}
+.location-cafe h3{
+    margin-bottom: 10px;
+}
+.location-map:hover{
+    cursor: pointer;
+
+}
+
+.comment-cafe{
+    border: 1 solid rgba(170, 159, 159, 0.345);
+
+}
+.comment-cafe h3{
+    margin-bottom: 10px;
+}
+
+.display-comment{
+    display: flex;
+    flex-direction: column;
+}
+
+.detail-contact{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

@@ -1,0 +1,69 @@
+[
+    {
+        "id": 1,
+        "name": "Chùa Một Cột",
+        "image": "https://motogo.vn/wp-content/uploads/2023/10/Chua-Mot-Cot-16.jpg",
+        "address": "Phố Chùa Một Cột, phường Đội Cấn, quận Ba Đình"
+    },
+    {
+        "id": 2,
+        "name": "Chùa Trấn Quốc",
+        "image": "https://statics.vinpearl.com/chua-tran-quoc-0_1685970868.jpg",
+        "address": "Đường Thanh Niên, phường Yên Phụ, quận Tây Hồ"
+    },
+    {
+        "id": 3,
+        "name": "Chùa Quán Sứ",
+        "image": "https://static.vinwonders.com/production/chua-quan-su-3.jpg",
+        "address": "73 Quán Sứ, phường Trần Hưng Đạo, quận Hoàn Kiếm"
+    },
+    {
+        "id": 4,
+        "name": "Chùa Kim Liên",
+        "image": "https://tayho360.vn/upload/admin/files/chuakimlien.png.png",
+        "address": "Nghi Tàm, phường Quảng An, quận Tây Hồ"
+    },
+    {
+        "id": 5,
+        "name": "Chùa Phúc Khánh",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIdRL-YX848T7q--AptMHt4nrhFWsoHa2QuQ&s",
+        "address": "382 Tây Sơn, phường Thịnh Quang, quận Đống Đa"
+    },
+    {
+        "id": 6,
+        "name": "Chùa Hà",
+        "image": "https://nhn.1cdn.vn/2023/08/23/chua-ha-cg.jpg",
+        "address": "86 Chùa Hà, phường Dịch Vọng, quận Cầu Giấy"
+    },
+    {
+        "id": 7,
+        "name": "Chùa Hương",
+        "image": "https://cdn.baohatinh.vn/images/63754e115713e36f23865be518e7055a4cafd2949f2cd0dbb4b47fa8292dde77f087a2615239ec4211f54a0019df68ad/154d4222421t91554l0.jpg",
+        "address": "Xã Hương Sơn, huyện Mỹ Đức, Hà Nội"
+    },
+    {
+        "id": 8,
+        "name": "Chùa Tây Phương",
+        "image": "https://nhn.1cdn.vn/thumbs/1200x630/2023/09/12/chua-tay-phuwong-tt.jpg",
+        "address": "Xã Thạch Xá, huyện Thạch Thất, Hà Nội"
+    },
+    {
+        "id": 9,
+        "name": "Chùa Láng",
+        "image": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2019/11/hinh2-chualang-e1574993036955.jpg",
+        "address": "Phố Chùa Láng, phường Láng Thượng, quận Đống Đa"
+    },
+    {
+        "id": 10,
+        "name": "Chùa Bộc",
+        "image": "https://xinchaovietnam.vn/wp-content/uploads/2024/11/Thiet-ke-chua-co-ten-5.png",
+        "address": "Phố Chùa Bộc, phường Quang Trung, quận Đống Đa"
+    },
+    {
+        "id": 11,
+        "name": "Chùa Vua",
+        "image": "https://oancotam.com/wp-content/uploads/2020/08/Tam-quan-Ch%C3%B9a-Vua-0.jpg",
+        "address": "Phố Thịnh Yên, phường Phố Huế, quận Hai Bà Trưng"
+    }
+
+]

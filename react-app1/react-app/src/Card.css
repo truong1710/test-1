@@ -1,0 +1,47 @@
+#menu-card {
+  width: 160px;
+  background: #fff;
+  border-radius: 16px;
+  overflow: hidden; /* QUAN TRỌNG để bo góc ảnh */
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover toàn card */
+#menu-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.18);
+}
+
+/* Ảnh */
+.card_anh {
+  width: 100%;
+  height: 110px;
+  overflow: hidden; /* để ảnh không tràn khi zoom */
+}
+
+.card_anh img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+/* Hover → ảnh phóng to nhẹ */
+#menu-card:hover .card_anh img {
+  transform: scale(1.1);
+}
+
+/* Tiêu đề */
+.card_title {
+  padding: 10px;
+  text-align: center;
+}
+
+.card_title p {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 600;
+  color: #333;
+}
