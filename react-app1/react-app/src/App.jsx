@@ -3,7 +3,7 @@ import Chua from "./detail_vanhoa/Chua"
 import Cafe from "./detail_cafe/Cafe"
 import Phong from "./detail_phongtra/Phongtra"
 import Karaoke from "./detail_karaoke/Karaoke"
-import Khugiaitri3 from "./khugiaitri/Khugiaitri"
+import Khugiaitri from "./khugiaitri/Khugiaitri"
 function App() {
   return (
     <>
